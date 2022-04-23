@@ -1,4 +1,4 @@
-# testing-practice
+# Testing Practice
 A practice in test driven development with Jest
 
 ## Requirements
