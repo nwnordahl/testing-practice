@@ -24,3 +24,10 @@ $ npm i
 ```bash
 $ npm run test
 ```
+
+## Resources
+
+- [The basic process and the benefits of TDD](https://web.archive.org/web/20211123190134/http://godswillokwara.com/index.php/2016/09/09/the-importance-of-test-driven-development/)
+- [Video series on Unit Testing in JS](https://www.youtube.com/playlist?list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr)
+- [Getting Started with Jest](https://jestjs.io/docs/getting-started)
+- [Using Matchers in Jest](https://jestjs.io/docs/using-matchers)
