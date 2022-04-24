@@ -31,3 +31,5 @@ $ npm run test
 - [Video series on Unit Testing in JS](https://www.youtube.com/playlist?list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr)
 - [Getting Started with Jest](https://jestjs.io/docs/getting-started)
 - [Using Matchers in Jest](https://jestjs.io/docs/using-matchers)
+- [Setup and Teardown in Jest](https://jestjs.io/docs/setup-teardown)
+- [Mock Functions included in Jest](https://jestjs.io/docs/mock-functions)
